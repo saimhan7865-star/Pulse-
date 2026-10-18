@@ -1,0 +1,6 @@
+{
+  "name": "Pulse - Social & Video Hub",
+  "description": "An all-in-one social and video entertainment app bringing together TikTok reels, YouTube video channels, and Facebook social feeds, stories, and reactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
